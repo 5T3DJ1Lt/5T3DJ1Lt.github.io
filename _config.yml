@@ -22,7 +22,7 @@ title: Anonymous
 email: 5T3DJ1Lt@users.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
   Anonymous project page
-baseurl: "/project1" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://5t3dj1lt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
