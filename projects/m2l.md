@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Unifying Symbolic Music Arrangement: Track-Aware Reconstruction and Structured Tokenization"
+title: "Joint Learning"
 permalink: /TC0WFOxq
 ---
  
