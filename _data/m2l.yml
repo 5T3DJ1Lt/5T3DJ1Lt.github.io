@@ -1,0 +1,28 @@
+models:
+  - name: Original
+    pdf: /assets/for_projects/LyricTrans/original/pdf/1.pdf
+    mp3: /assets/for_projects/m2l/fly_me__song.mp3
+
+  - name: 1
+    pdf: /assets/for_projects/LyricTrans/1/pdf/1.pdf
+    mp3: /assets/for_projects/LyricTrans/1/mp3/1.mp3
+
+  - name: 2
+    pdf: /assets/for_projects/LyricTrans/2/pdf/1.pdf
+    mp3: /assets/for_projects/LyricTrans/2/mp3/1.mp3
+
+  - name: 3
+    pdf: /assets/for_projects/LyricTrans/3/pdf/1.pdf
+    mp3: /assets/for_projects/LyricTrans/3/mp3/1.mp3
+
+  - name: 4
+    pdf: /assets/for_projects/LyricTrans/4/pdf/1.pdf
+    mp3: /assets/for_projects/LyricTrans/4/mp3/1.mp3
+
+  - name: 5
+    pdf: /assets/for_projects/LyricTrans/5/pdf/1.pdf
+    mp3: /assets/for_projects/LyricTrans/5/mp3/1.mp3
+
+  - name: 6
+    pdf: /assets/for_projects/LyricTrans/6/pdf/1.pdf
+    mp3: /assets/for_projects/LyricTrans/6/mp3/1.mp3
