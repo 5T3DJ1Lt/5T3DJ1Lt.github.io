@@ -57,7 +57,6 @@ plugins:
 # Customize Navigation Bar
 header_pages:
   - about.md
-  - musician.md
 
 github:
   private: true
